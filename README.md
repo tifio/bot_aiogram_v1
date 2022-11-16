@@ -1,4 +1,4 @@
 
 My first bot aiogram
 ---
-- python
+- обучение ботам
